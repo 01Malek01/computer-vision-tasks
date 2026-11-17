@@ -1,0 +1,21 @@
+model,digit,accuracy
+Custom CNN,0,0.9950
+Custom CNN,1,0.9900
+Custom CNN,2,0.9950
+Custom CNN,3,0.9850
+Custom CNN,4,0.9850
+Custom CNN,5,0.9800
+Custom CNN,6,0.9850
+Custom CNN,7,0.9800
+Custom CNN,8,0.9750
+Custom CNN,9,0.9850
+EfficientNetB0,0,0.9750
+EfficientNetB0,1,0.9850
+EfficientNetB0,2,0.5900
+EfficientNetB0,3,0.8700
+EfficientNetB0,4,0.9000
+EfficientNetB0,5,0.5450
+EfficientNetB0,6,0.9000
+EfficientNetB0,7,0.7650
+EfficientNetB0,8,0.8250
+EfficientNetB0,9,0.8150
