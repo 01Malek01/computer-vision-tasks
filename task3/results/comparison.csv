@@ -1,3 +1,3 @@
-model,accuracy,loss,f1_macro,f1_weighted,total_params,train_seconds,inference_ms_per_image
-Custom CNN,0.9855,0.0432,0.9855,0.9855,467818,43.0,0.32
-EfficientNetB0,0.817,0.6713,0.8133,0.8133,4214829,55.6,3.404
+model,accuracy,loss,f1
+cnn,0.9860,0.0433,0.9860
+efficientnet,0.8050,0.6881,0.8023
